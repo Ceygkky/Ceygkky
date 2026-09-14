@@ -37,10 +37,6 @@ Doğal yaşam ve Türkiye'deki ağaç türlerini tanıtan web projesi.
 
 Rafine şekersiz tarifleri bir araya getiren, HTML & CSS ile geliştirilmiş web projesi.
 
-### ☕ Dem&Co.
-
-Kahve, kahve ekipmanları ve e-ticaret deneyimini bir araya getiren konsept web projesi.
-
 ---
 
 ## 💡 About Me
