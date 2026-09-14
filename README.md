@@ -55,10 +55,10 @@ Rafine şekersiz tarifleri bir araya getiren, HTML & CSS ile geliştirilmiş web
 ## 📫 Let's Connect!
 
 <p>
-  <a href="https://github.com/CEYDA_GITHUB_KULLANICI_ADIN">
+  <a href="https://github.com/Ceygkky">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="LINKEDIN_LINKIN">
+  <a href="https://www.linkedin.com/in/ceyda-g%C3%B6kkaya-7051b0323/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
