@@ -1,16 +1,74 @@
-## Hi there 👋
+# 👋 Merhaba, ben Ceyda!
 
-<!--
-**Ceygkky/Ceygkky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Web Development • E-Commerce • Digital Projects
 
-Here are some ideas to get you started:
+Web geliştirme, e-ticaret ve dijital projelerle ilgileniyorum.
+Öğrenirken sadece kod yazmak değil, **kullanışlı ve görsel olarak güzel projeler ortaya çıkarmak** benim için önemli. ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☕ Kahve | 🎨 Tasarım | 💻 Web | 🛍️ E-Commerce
+
+---
+
+## 🌱 Şu anda öğreniyorum
+
+* 🌐 HTML & CSS
+* 🛒 E-Commerce & WordPress
+* 💻 C#
+* 📱 Flutter & Dart
+* 🐙 Git & GitHub
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,cs,wordpress,git,github,vscode,flutter,dart" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌿 Türkiye'nin Ağaçları
+
+Doğal yaşam ve Türkiye'deki ağaç türlerini tanıtan web projesi.
+
+### 🍰 Şekersiz Tarifler
+
+Rafine şekersiz tarifleri bir araya getiren, HTML & CSS ile geliştirilmiş web projesi.
+
+### ☕ Dem&Co.
+
+Kahve, kahve ekipmanları ve e-ticaret deneyimini bir araya getiren konsept web projesi.
+
+---
+
+## 💡 About Me
+
+🎓 Lise mezunuyum ve kendimi dijital teknolojiler alanında geliştiriyorum.
+
+💻 Web geliştirme ve e-ticaret alanında kendimi geliştirerek gerçek projeler üretmek istiyorum.
+
+🎨 Kodun yanında tasarım ve görsel düzenlemeler de ilgimi çekiyor.
+
+📚 Öğrenmeye ve yeni şeyler denemeye devam ediyorum.
+
+---
+
+
+## 📫 Let's Connect!
+
+<p>
+  <a href="https://github.com/CEYDA_GITHUB_KULLANICI_ADIN">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="LINKEDIN_LINKIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+---
+
+### ☕ *Building, learning and creating one project at a time.*
+
+⭐ Thanks for visiting my profile!
